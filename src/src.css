@@ -1,0 +1,26 @@
+.container {
+  padding: 30px;
+  position: relative;
+  top: 30px;
+  height: 400px;
+  width: 700px;
+  border: 1px solid grey;
+  border-radius: 6px;
+}
+.details {
+  padding-top: 10px;
+  margin: 10px;
+  color: #595260;
+}
+.li {
+  position: relative;
+  margin-left: 300px;
+  margin-top: -70px;
+}
+.temperature {
+  font-size: 70px;
+}
+.units {
+  position: relative;
+  top: -40px;
+}
