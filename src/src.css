@@ -24,3 +24,12 @@
   position: relative;
   top: -40px;
 }
+p {
+  padding-top: 40px;
+  font-size: 12px;
+  text-align: center;
+  color: grey;
+}
+a {
+  text-decoration: none;
+}
